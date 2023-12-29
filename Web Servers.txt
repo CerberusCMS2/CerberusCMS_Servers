@@ -3,7 +3,7 @@ Cerberus Content Management System :: Demonstration Servers
 ======================================================================
 Current Demonstration Servers, Public
 Note: This is where you can get a free live demonstration of Cerberus Content Management System
-* https://www.GITHub.com/CerberusCMS2/Demonstration
+* https://CerberusCMS2.GITHub.io
 * https://CerberusCMS2.SourceForge.net
 * https://CerberusCMS2.000WebHostApp.com
 
