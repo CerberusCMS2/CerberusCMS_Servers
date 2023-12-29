@@ -1,16 +1,16 @@
 ======================================================================
+Cerberus Content Management System :: Demonstration Servers
+======================================================================
+Current Demonstration Servers, Public
+Note: This is where you can get a free live demonstration of Cerberus Content Management System
+* https://www.GITHub.com/CerberusCMS2/Demonstration
+* https://CerberusCMS2.SourceForge.net
+* https://CerberusCMS2.000WebHostApp.com
+
+======================================================================
 Cerberus Content Management System :: Development Servers
 ======================================================================
 Current Development Servers, Public
 Note: This is where you can watch the developers work on this Web Application Software Project in real-time
 ----------------------------------------------------------------------
-* https://CerberusCMS2.000WebHostApp.com
-
-======================================================================
-Cerberus Content Management System :: Demonstration Servers
-======================================================================
-Current Development Servers, Public
-Note: This is where you can get a free live demonstration of Cerberus Content Management System
-* https://www.GITHub.com/CerberusCMS2/Demonstration
-* https://CerberusCMS2.SourceForge.net
 * https://CerberusCMS2.000WebHostApp.com
