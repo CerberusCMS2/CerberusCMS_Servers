@@ -6,8 +6,6 @@ Note: This is where you can get a free live demonstration of Cerberus Content Ma
 * https://CerberusCMS2.GITHub.io
 * https://CerberusCMS2.SourceForge.net
 * https://CerberusCMS2Development.000WebHostApp.com
-* https://CerberusCMS2Demonstration.000WebHostApp.com
-* https://CerberusCMS2.000WebHostApp.com
 * https://CerberusCMS2.AtWebPages.com
 
 Current Demonstration Servers, Public :: Paid
@@ -21,5 +19,3 @@ Current Development Servers, Public :: Free
 Note: This is where you can watch the developers work on this Web Application Software Project in real-time
 ----------------------------------------------------------------------
 * https://CerberusCMS2Development.000WebHostApp.com
-* https://CerberusCMS2Demonstration.000WebHostApp.com
-* https://CerberusCMS2.000WebHostApp.com
