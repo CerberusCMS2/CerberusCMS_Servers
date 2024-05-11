@@ -18,4 +18,4 @@ Cerberus Content Management System :: Development Servers
 Current Development Servers, Public :: Free
 Note: This is where you can watch the developers work on this Web Application Software Project in real-time
 ----------------------------------------------------------------------
-* * https://CCMS4DevelopmentServer2.000WebHostApp.com
+* https://CCMS4DevelopmentServer2.000WebHostApp.com
